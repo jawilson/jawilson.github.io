@@ -4,7 +4,7 @@
   <title><![CDATA[Jeff's Blog]]></title>
   <link href="http://jawilson.github.io/atom.xml" rel="self"/>
   <link href="http://jawilson.github.io/"/>
-  <updated>2014-01-19T22:25:43-05:00</updated>
+  <updated>2014-01-19T22:39:26-05:00</updated>
   <id>http://jawilson.github.io/</id>
   <author>
     <name><![CDATA[Jeff Wilson]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First!]]></title>
+    <link href="http://jawilson.github.io/blog/2014/01/19/first/"/>
+    <updated>2014-01-19T22:33:43-05:00</updated>
+    <id>http://jawilson.github.io/blog/2014/01/19/first</id>
+    <content type="html"><![CDATA[<p>This is a quick first post to my new Octopress blog hosted by Github!</p>
+]]></content>
+  </entry>
   
 </feed>
