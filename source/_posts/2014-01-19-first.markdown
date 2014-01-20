@@ -5,4 +5,5 @@ date: 2014-01-19 22:33:43 -0500
 comments: true
 categories: 
 ---
-This is a quick first post to my new Octopress blog hosted by Github!
+This is a quick first post to my new [Octopress](http://octopress.org/) blog hosted by
+[GitHub Pages](http://pages.github.com/)!
